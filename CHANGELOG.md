@@ -1,3 +1,12 @@
+## [1.0.6](https://github.com/gioxx/gitdeck/compare/v1.0.5...v1.0.6) (2026-07-30)
+
+
+### Features
+
+* **preferences:** hide archived repo noise from PRs, issues, insights and digests ([cf2f1fa](https://github.com/gioxx/gitdeck/commit/cf2f1fa46e39dfd9cc494f9259f56cf7e1e1d6ef))
+* **releases:** add release type filters and repository reload button ([f732dee](https://github.com/gioxx/gitdeck/commit/f732dee80c7ce2bc818b0944941505e971038fa9))
+* **repo-modal:** add commits, milestones, branches and discussions tabs ([c27402d](https://github.com/gioxx/gitdeck/commit/c27402d833601316c9f5cc1a1f534c57fac5fd37))
+
 ## [1.0.5](https://github.com/debba/gh-dashboard/compare/v1.0.4...v1.0.5) (2026-07-27)
 
 
